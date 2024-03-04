@@ -1,16 +1,14 @@
-### Hi there 👋
+Hello, I'm Md Adeem! 👋
+I'm a passionate software developer with experience in web development and a strong foundation in computer science. Welcome to my GitHub profile, where I showcase my projects, contributions, and a journey into the world of coding.
 
-<!--
-**Md-Adeem/Md-Adeem** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+About Me
+🎓 Bachelor's degree in Computer Science and Engineering with a CGPA of 7.5.
 
-Here are some ideas to get you started:
+🌟 My Tech Stack:
+React
+JavaScript
+MongoDB
+Node.js
+SQL
+C/C++
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
